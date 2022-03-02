@@ -1,0 +1,1 @@
+print("my name is {},my age is {},my expierence is {}.".format("navjeet",16,10))

@@ -1,0 +1,4 @@
+for i range(100)
+salary=int(input("Enter your salary and I will let you know your incremated salary:"))
+total=salary+1100
+print("employee",i,"your final salary is now",total)

@@ -1,0 +1,3 @@
+a=input()
+b=a*4
+print(b)

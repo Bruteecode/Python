@@ -1,0 +1,5 @@
+f1=open("abc.txt","w")
+f1.write("hi there!!\n")
+f1.write("I am Akash\n")
+f1.write("nothing")
+f1.close()

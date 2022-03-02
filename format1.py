@@ -1,0 +1,1 @@
+print("the price of coffee is {2: .3f}".format(-45,67,10.1))

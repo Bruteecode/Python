@@ -1,0 +1,1 @@
+print("the price of coffee is {1: }".format(-45,67))
