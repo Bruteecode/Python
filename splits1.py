@@ -1,0 +1,1 @@
+print("akash chopra hw ru abcd".split())

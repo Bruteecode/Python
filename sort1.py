@@ -1,0 +1,9 @@
+#Sort
+#listname.sort(key=function,reverse=true/false
+a=[3,6,9,1]
+b=["Akash","abc","zse","tyu","bas","cfd"]
+a.sort(reverse=True)
+b.sort(reverse=False)
+c.sort(reverse=True)
+print(a)
+print(b)
